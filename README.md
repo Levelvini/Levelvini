@@ -1,7 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Levelvini" />
-&nbsp;&nbsp;&nbsp;
-
 Hello,i am Vinicius Ferreira👋
 
 - ☕ I’m currently learning java spring framework:
