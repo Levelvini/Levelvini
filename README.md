@@ -1,18 +1,15 @@
-<h2> Hi, I'm vinicius ferreira! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Levelvini&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-- ☕ I’m currently learning java spring framework:
-- 🐈 I love cats and coffee:
-- 🌌 Jedi in my free time:
+### Olá, meu nome é vinicius!
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Don't be a programmer，Be a problem solver.</p>&nbsp;
+<img src="https://img.shields.io/static/v1?label=Overview&message=vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<p>estou procurando minha primeira oportunidade!!<br/> Eu sou desenvolvedor java.</p>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Levelvini&theme=radical&mode=weekly" />
- </div>
- 
  &nbsp;
  &nbsp;
+
+
 
 
 
@@ -25,16 +22,13 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
 ![java](https://img.shields.io/badge/java-199900?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-#### Studying in this moment:
-
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 #### Databases:
 
